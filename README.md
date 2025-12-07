@@ -11,8 +11,8 @@ I'm transitioning from trade advisory to commercial analytics and DX consulting 
 - **Languages**: English - native, Japanese - full business fluency (N1)
 
 ## 📊 Featured Projects
-- [Critical Minerals Interactive Analysis](https://github.com/gemaon/critical-minerals-interactive-analysis) - Shiny dashboard with spatial analysis
 - [Handlebar Haven Data Warehouse](https://github.com/gemaon/handlebarhaven-datawarehouse) - SSIS ETL & dimensional modelling
+- [Critical Minerals Interactive Analysis](https://github.com/gemaon/critical-minerals-interactive-analysis) - Shiny dashboard with spatial analysis
 - [Education Performance Dashboard](https://github.com/gemaon/education-data-analytics) - Python + Power BI
 
 ## 📫 Connect

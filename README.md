@@ -8,7 +8,7 @@ I'm transitioning from trade advisory to commercial analytics and DX consulting 
 - **Data Integration**: SQL, SSIS ETL pipelines, dimensional modelling
 - **Analytics & Visualisation**: Python (pandas, NumPy), R (ggplot2, Plotly, Shiny), Power BI
 - **Geospatial Analysis**: Spatial overlays, coordinate systems, protected area mapping
-- **Languages**: English (native), Japanese (business fluent)
+- **Languages**: English - native, Japanese - full business fluency (N1)
 
 ## 📊 Featured Projects
 - [Critical Minerals Interactive Analysis](https://github.com/gemaon/critical-minerals-interactive-analysis) - Shiny dashboard with spatial analysis

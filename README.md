@@ -14,7 +14,8 @@ I'm transitioning from trade advisory to commercial analytics and DX consulting 
 
 **[Handlebar Haven Data Warehouse](https://github.com/gemaon/handlebarhaven-datawarehouse)** - End-to-end data warehouse implementation using SSIS ETL pipelines and star schema dimensional modelling. Transformed 31K+ transactions to deliver profitability insights on customers, products, and territories for a global bicycle manufacturer.
 
-**[Critical Minerals Interactive Analysis](https://github.com/gemaon/critical-minerals-interactive-analysis)** - Interactive Shiny dashboard analysing Australia's A$1B critical minerals investment strategy using R. Features spatial overlay analysis identifying ESG risks, export trend visualisations, and strategic allocation recommendations. [Live demo](https://c7cq5t-george-onishi.shinyapps.io/shiny_deployment/)
+**[Critical Minerals Interactive Analysis](https://github.com/gemaon/critical-minerals-interactive-analysis)** - Interactive Shiny dashboard analysing Australia's A$1B critical minerals investment strategy using R. Features spatial overlay analysis identifying ESG risks, export trend visualisations, and strategic allocation recommendations.
+Live demo: https://c7cq5t-george-onishi.shinyapps.io/shiny_deployment/
 
 **[Education Performance Dashboard](https://github.com/gemaon/education-data-analytics)** - Python data preparation (pandas, NumPy) with Power BI visualisation analysing educational performance metrics. Demonstrates data cleaning, statistical analysis, and executive dashboard design.
 

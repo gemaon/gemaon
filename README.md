@@ -16,5 +16,5 @@ I'm transitioning from trade advisory to commercial analytics and DX consulting 
 - [Education Performance Dashboard](https://github.com/gemaon/education-data-analytics) - Python + Power BI
 
 ## 📫 Connect
-- LinkedIn: [https://www.linkedin.com/in/georgy-onishi/]
+- LinkedIn: https://www.linkedin.com/in/georgy-onishi/
 - Location: Tokyo, Japan

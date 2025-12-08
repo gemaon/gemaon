@@ -1,6 +1,6 @@
 # Welcome to my Github profile! I'm Georgy Onishi.
 
-**Business Analytics Graduate | Enterprise Ireland → DX Consulting**
+**Strategic trade advisory → DX Consulting**
 
 I'm transitioning from trade advisory to commercial analytics and DX consulting roles in Japan, with expertise in data warehousing, interactive visualisation, and business intelligence.
 

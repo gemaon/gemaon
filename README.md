@@ -17,7 +17,7 @@ I'm transitioning from trade advisory to commercial analytics and DX consulting 
 **[Critical Minerals Interactive Analysis](https://github.com/gemaon/critical-minerals-interactive-analysis)** - Interactive Shiny dashboard analysing Australia's A$1B critical minerals investment strategy using R. Features spatial overlay analysis identifying ESG risks, export trend visualisations, and strategic allocation recommendations.
 **LIVE DEMO:** https://c7cq5t-george-onishi.shinyapps.io/shiny_deployment/
 
-**[Education Performance Dashboard](https://github.com/gemaon/education-data-analytics)** - Python data preparation (pandas, NumPy) with Power BI visualisation analysing educational performance metrics. Demonstrates data cleaning, statistical analysis, and executive dashboard design.
+**[Education Performance Dashboard](https://github.com/gemaon/education-analytics-platform)** - Python data preparation (pandas, NumPy) with Power BI visualisation analysing educational performance metrics. Demonstrates data cleaning, statistical analysis, and executive dashboard design.
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/georgy-onishi/

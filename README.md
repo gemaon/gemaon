@@ -4,13 +4,13 @@
 
 I'm transitioning from trade advisory to commercial analytics and DX consulting roles in Japan, with expertise in data warehousing, interactive visualisation, and business intelligence.
 
-## 🛠️ Technical Skills
+## Technical Skills
 - **Data Integration**: SQL, SSIS ETL pipelines, dimensional modelling
 - **Analytics & Visualisation**: Python (pandas, NumPy), R (ggplot2, Plotly, Shiny), Power BI
 - **Geospatial Analysis**: Spatial overlays, coordinate systems, protected area mapping
 - **Languages**: English - native, Japanese - full business fluency (N1)
 
-## 📊 Featured Projects
+## Featured Projects
 
 **[Handlebar Haven Data Warehouse](https://github.com/gemaon/handlebarhaven-datawarehouse)** - End-to-end data warehouse implementation using SSIS ETL pipelines and star schema dimensional modelling. Transformed 31K+ transactions to deliver profitability insights on customers, products, and territories for a global bicycle manufacturer.
 
@@ -26,6 +26,6 @@ I'm transitioning from trade advisory to commercial analytics and DX consulting 
 
 - **Technical Skills Demonstrated:** Python, Power BI, Data Visualisation, Data Cleaning
 
-## 📫 Connect
+## Connect
 - LinkedIn: https://www.linkedin.com/in/georgy-onishi/
 - Location: Tokyo, Japan

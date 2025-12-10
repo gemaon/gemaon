@@ -1,8 +1,8 @@
 # Welcome to my Github profile! I'm Georgy Onishi.
 
-**Strategic trade advisory → DX Consulting**
+**Strategic trade advisory → Analytics, BI, and DX Consulting**
 
-I'm transitioning from trade advisory to commercial analytics and DX consulting roles in Japan, with expertise in data warehousing, interactive visualisation, and business intelligence.
+I'm transitioning from trade advisory to commercial analytics and BI roles in Japan, with expertise in data warehousing, interactive visualisation, and business intelligence.
 
 ## Technical Skills
 - **Data Integration**: SQL, SSIS ETL pipelines, dimensional modelling

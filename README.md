@@ -8,7 +8,6 @@ I'm transitioning from trade advisory to commercial analytics and BI roles in Ja
 - **Data Integration**: SQL, SSIS ETL pipelines, dimensional modelling
 - **Analytics & Visualisation**: Python (pandas, NumPy), R (ggplot2, Plotly, Shiny), Power BI
 - **Geospatial Analysis**: Spatial overlays, coordinate systems, protected area mapping
-- **Languages**: English - native, Japanese - full business fluency (N1)
 
 ## Featured Projects
 

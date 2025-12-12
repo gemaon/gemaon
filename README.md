@@ -6,6 +6,7 @@ I'm transitioning from trade advisory to commercial analytics and BI roles in Ja
 
 ## Technical Skills
 - **Data Integration**: SQL, SSIS ETL pipelines, dimensional modelling
+- **Statistical Analysis**: Multiple linear regression, logistic regression, time-series analysis (decomposition, forecasting), hypothesis testing, correlation analysis
 - **Analytics & Visualisation**: Python (pandas, NumPy), R (ggplot2, Plotly, Shiny), Power BI
 - **Geospatial Analysis**: Spatial overlays, coordinate systems, protected area mapping
 
